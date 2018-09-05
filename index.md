@@ -8,9 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Some things I love about CS193:
-1. The great TA's!
-2. Fun lectures!
-3. No exams!
+- The great TA's!
+- Fun lectures!
+- No exams!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
